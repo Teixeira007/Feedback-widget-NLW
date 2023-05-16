@@ -13,7 +13,7 @@ A aplicação consiste em um botão flutuante, no estilo widget, que permite rel
 ## :car: Iniciando a aplicação
 ```bash
 # Baixe o repositório com git clone e entre na pasta do projeto.
-$ git clone hhttps://github.com/luiizsilverio/nlw-widget
+$ git clone https://github.com/Teixeira007/Feedback-widget-NLW.git
 
 # Renomeie o arquivo .env.local-example para .env.local
 # Informe a URL da API na variável VITE_API_URL
